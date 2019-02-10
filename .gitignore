@@ -3,3 +3,6 @@
 ################################################################################
 
 /PolygonApp/bin/Debug
+/PolygonApp/obj
+/PolygonCalculator/obj
+/PolygonCalculator/bin/Debug/netstandard2.0
